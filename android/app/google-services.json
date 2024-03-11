@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463006354023",
+    "project_id": "medicalproject-d1ff1",
+    "storage_bucket": "medicalproject-d1ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463006354023:android:773cf6ab48aaa40a1462c2",
+        "android_client_info": {
+          "package_name": "com.example.saltu_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP4IbqctK55J2MMtxdhk-DtTOFfsdOc4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
